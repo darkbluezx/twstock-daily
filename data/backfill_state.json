@@ -1,0 +1,21 @@
+{
+  "range": {
+    "start": "2026-08-01",
+    "end": "2026-09-30"
+  },
+  "updated_at": "2026-11-07T22:01:53.980627+08:00",
+  "attempted_dates": 2,
+  "downloaded": {
+    "2026-08-03": {
+      "TWSE": 1240,
+      "TPEX": 4582
+    },
+    "2026-08-04": {
+      "TWSE": 1242,
+      "TPEX": 4811
+    }
+  },
+  "skipped_existing": {},
+  "no_session_dates": [],
+  "errors": {}
+}
